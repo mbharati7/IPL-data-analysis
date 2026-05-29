@@ -25,3 +25,11 @@ using Python, SQL and Excel.
 1. Clone the repo
 2. Open `IPL_Analysis.ipynb` in Jupyter
 3. Run all cells
+
+## Visualisations
+
+![Top Teams](top_teams_wins.png)
+![Toss Impact](toss_impact.png)
+![Matches Per Season](matches_per_season.png)
+![Top Cities](top_cities.png)
+![Top Players](top_players.png)
